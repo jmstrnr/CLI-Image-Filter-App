@@ -3,6 +3,7 @@
 This Java command line application is used to accept an image, apply a filter to that image, and then output the filtered image. It uses a convolution matrix to apply a filter to each pixel of a rasterized image, changing the value of each pixel based on the value of surrounding pixels and the matrix weights.
 
 Features:
+
 -Image filtering.
 By entering 1 into the command line terminal when prompted, you are able to enter an image name. A copy of that image will be created and have the active filter applied to it, before being output.
 
