@@ -1,6 +1,7 @@
 # CLI Image Filter App
 
-This application allows the user to select between 12 different filters to apply to an image. The user can input an image via the command line to apply the currently selected filter, and a filtered image will be generated and output.
+This application allows the user to select between 12 different filters to apply to an image.  
+The user can input an image via the command line to apply the currently selected filter, and a filtered image will be generated and output.
 It uses a convolution matrix to apply a filter to each pixel of a rasterized image, changing the value of each pixel based on the value of surrounding pixels and the matrix weights.
 
 Upon starting the application, the user will be prompted to choose between 4 options:
