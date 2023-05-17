@@ -10,7 +10,7 @@ Upon starting the application, the user will be prompted to choose between 4 opt
 3.  To filter multiple images at once: you input the number of images you wish to filter. You can then input the name of each individual image, and a copy of each image will be generated with the active filter applied.
 4.  To close the terminal and prevent further user input.
 
-For testing the application I used a variety of black and white images, contained in the "png" folder.
-A selection of output files displaying how an image looks with each filter applied to it is contained in the "filtered" folder.
+- For testing the application I used a variety of black and white images, contained in the "png" folder.
+- A selection of output files displaying how an image looks with each filter applied to it is contained in the "filtered" folder.
 
 Languages used: Java
